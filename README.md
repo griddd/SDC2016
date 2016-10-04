@@ -1,2 +1,2 @@
 # SDC2016
-To hold samples from my talk at SkyDogCon 2016
+Soon to hold samples from my wireless hacking talk at SkyDogCon 2016 :)
