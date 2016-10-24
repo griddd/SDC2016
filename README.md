@@ -1,8 +1,6 @@
 # SDC2016
-Soon to hold samples from my wireless hacking talk at SkyDogCon 2016 :)
+Samples from my wireless hacking talk at SkyDogCon 2016 :)
 
-I'll have some videos here, as well as the presentation slides
+Presentation slides are in LibreOffice and MS Powerpoint 2013 formats
 
-There will also be a link to the video of the talk itself
-
-10/17 Update: I'm speaking on Saturday (10/22) at 11 a.m.  Come by!  
+I'll put the link to the video of the talk itself here, once it's online.  
